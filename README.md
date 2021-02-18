@@ -20,5 +20,13 @@ Steps to download and install SAM can be found here:
 ## TODO: Explain Roles for Usage
 ## TODO: Explain SAM install and usage for tests
 ## TODO: Create an event.json for sameple usage
-## TODO: Add proper readme.md file
--
+
+## How to contribute
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+The project works under the git flow framework please create your own feature branch and generate a pull request into master to be reviewed.
+
+https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+
+Please make sure to update/create tests as appropriate.
