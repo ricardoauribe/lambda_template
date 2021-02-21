@@ -21,6 +21,13 @@ Steps to download and install SAM can be found here:
 ## TODO: Explain SAM install and usage for tests
 ## TODO: Create an event.json for sameple usage
 
+To test your local event try:
+
+```
+# Invoking function with event file
+$ sam local invoke "lambda name" -e event.json
+```
+
 ## How to contribute
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
